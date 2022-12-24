@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jpi/MX2aSD/ciFR2NPINlTOpvGVKlPFFVD2KrEmv7WYbb2qCv8W5105AN42mcPVzUj0ThGfMMH8Rhdub3DgnWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Template.API\\Template.Application\\Template.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

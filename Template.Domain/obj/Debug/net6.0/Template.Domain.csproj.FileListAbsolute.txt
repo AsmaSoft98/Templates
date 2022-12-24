@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\Template.API\Template.Domain\bin\Debug\net6.0\Template.Domain.deps.json
+C:\Users\PC\source\repos\Template.API\Template.Domain\bin\Debug\net6.0\Template.Domain.dll
+C:\Users\PC\source\repos\Template.API\Template.Domain\bin\Debug\net6.0\ref\Template.Domain.dll
+C:\Users\PC\source\repos\Template.API\Template.Domain\bin\Debug\net6.0\Template.Domain.pdb
+C:\Users\PC\source\repos\Template.API\Template.Domain\obj\Debug\net6.0\Template.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Template.API\Template.Domain\obj\Debug\net6.0\Template.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Template.API\Template.Domain\obj\Debug\net6.0\Template.Domain.AssemblyInfo.cs
+C:\Users\PC\source\repos\Template.API\Template.Domain\obj\Debug\net6.0\Template.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Template.API\Template.Domain\obj\Debug\net6.0\Template.Domain.dll
+C:\Users\PC\source\repos\Template.API\Template.Domain\obj\Debug\net6.0\ref\Template.Domain.dll
+C:\Users\PC\source\repos\Template.API\Template.Domain\obj\Debug\net6.0\Template.Domain.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rX10IN1vvNGqdXZabJMX2Avw6x6Rg3Q3Tj43OGAlY1pEnrIbu/2YPpRT9jJtNih4Kaao0L+JK9A8Qh4iIf/s6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Template.API\\Template.Infrastructure\\Template.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
